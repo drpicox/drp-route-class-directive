@@ -1,0 +1,25 @@
+{
+  "name": "drp-route-class-directive",
+  "main": "drp-route-class-directive.js",
+  "version": "0.0.0",
+  "authors": [
+    "David Rodenas <david.rodenas@gmail.com>"
+  ],
+  "description": "An AngularJS directive like ngClass that adds and removes css classes based in the current route path.",
+  "keywords": [
+    "angularjs",
+    "ngClass",
+    "directive",
+    "class",
+    "route"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/drpicox/drp-route-class-directive",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
